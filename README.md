@@ -25,8 +25,4 @@ Chat Orbit leverages React for its dynamic user interface and state management. 
 - React Router
 - CSS Modules
 
-## Setup and Installation
 
-1. Clone the repository.
-   ```bash
-   git clone https://github.com/yourusername/chat-orbit.git
