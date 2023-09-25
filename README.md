@@ -2,8 +2,12 @@
 
 Chat Orbit is a React-based web application that allows users to engage in real-time chat conversations. The application provides a user-friendly interface for sending messages, viewing online users, and managing chat preferences.
 
-## Demo
-[Link Text](https://chat-orbit-r9tz.vercel.app/)
+## Dependencies
+
+- react-icons
+- react-router-dom
+- axios
+   
 
 ## Features
 
